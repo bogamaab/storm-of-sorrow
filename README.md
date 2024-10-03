@@ -10,3 +10,4 @@ El siguiente es el stack del proyecto:
 - Express v4.21.0
 - MongoDB v8.7.0
 - Nodemon v3.1.7
+- dotenv v16.4.5
